@@ -61,21 +61,19 @@ public class Main {
         // O tipo da variavel vai ser reconhecido automaticamente apartir do tipo de dados que exitem dentro dela
         var sobrenome = "Duarte Gomes";
 
-
-        System.out.println(idade);
-        System.out.println(estoque);
-        System.out.println(numero);
-        System.out.println(contaCorrente);
-        System.out.println(real);
-        System.out.println(dolar);
-        System.out.println(nome2);
-        System.out.println(primeiraLetra);
-        System.out.println(botaoAtivado);
-        System.out.println(botaoDesativado);
         System.out.println(sobrenome);
 
 
         // 3. Classes Wrappers--------------------------------------------------------------------------------
+        // variaveis com recursos especiais
+
+        Byte
+
+
+
+
+
+
         // 4. Mutabilidade e Imutabilidade--------------------------------------------------------------------------------
         // 5. Comments--------------------------------------------------------------------------------
         // 6. Concatenação--------------------------------------------------------------------------------
